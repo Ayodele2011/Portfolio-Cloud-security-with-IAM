@@ -1,4 +1,4 @@
-# Portfolio: Cloud Security with IAM
+# Portfolio: Solution Architect
 
 This repository showcases practical projects on **AWS Cloud Security** using **Identity and Access Management (IAM)**, **Amazon S3**, and **Virtual Private Cloud (VPC)**. It is part of my portfolio demonstrating hands-on skills in securing cloud environments.
 
